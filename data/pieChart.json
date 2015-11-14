@@ -1,0 +1,27 @@
+[{
+    "category": "Backlog",
+    "items": [{
+        "name": "Do",
+        "amount": 88,
+        "color": "yellow"
+    }],
+    "weight": 23
+}, {
+
+    "category": "WIP",
+    "items": [{
+        "name": "Do Queue",
+        "amount": 27,
+        "color": "red"
+    }, {
+        "name": "Doing",
+        "amount": 30,
+        "color": "green"
+    }, {
+        "name": "Do Today",
+        "amount": 20,
+        "color": "blue"
+    }],
+    "weight": 12
+
+}]
